@@ -1,0 +1,17 @@
+.studentDetail{
+    display: flex;
+    width: 200px;
+
+}
+.studentDetailRight{
+    margin-left: 90px;
+}
+.studentDetailContainer{
+    width: 30vw;
+    margin-left: 30vw;
+    padding: 50px;
+   
+}
+.birthDay{
+    width: 100px;
+}
